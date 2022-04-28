@@ -15,7 +15,7 @@ const myTax = calculateTax(subtotal, taxRate);
 const myTotal = calculateTotal(subtotal, myTax);
 
 
-
+ 
 
 console.log('Subtotal:         ',subtotal.toFixed(2));
 console.log('Tax:               ', myTax.toFixed(2));
